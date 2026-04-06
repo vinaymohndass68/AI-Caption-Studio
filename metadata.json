@@ -1,0 +1,8 @@
+{
+  "name": "AI Caption Studio",
+  "description": "An advanced studio for generating viral captions, social media replies, and artistic content. Features include context-aware AI generation, a custom image editor with text overlays, and multiple language support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
